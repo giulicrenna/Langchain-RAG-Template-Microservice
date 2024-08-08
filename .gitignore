@@ -1,0 +1,5 @@
+.venv
+*.pdf
+*.sqlite3
+*.pyc
+*.bin
